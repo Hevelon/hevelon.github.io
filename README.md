@@ -1,4 +1,4 @@
-### Responsive Portfolio Website Halisson
+### Responsive Portfolio Website 
 
 - Site de portfólio pessoal responsivo usando HTML CSS e JavaScript
 - Rolagem suave em cada seção.
